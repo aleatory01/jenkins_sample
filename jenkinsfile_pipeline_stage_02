@@ -1,3 +1,6 @@
+//******************************
+// Declarative pipeline example
+//******************************
 pipeline {
     agent any
 
