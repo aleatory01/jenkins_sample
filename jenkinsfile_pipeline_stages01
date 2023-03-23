@@ -1,0 +1,15 @@
+node 
+{
+  stage ('1')
+  {
+    echo "1st stage"
+  }
+  
+  stage ('2')
+  {
+    echo "2nd stage"
+  }
+  
+  stage ('3')
+    echo "3rd stage"
+}
