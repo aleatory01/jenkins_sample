@@ -1,5 +1,3 @@
-5 lines (13 sloc)  137 Bytes
-
 node 
 {
   stage ('1')
